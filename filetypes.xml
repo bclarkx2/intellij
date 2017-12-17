@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="verbs" type="PLAIN_TEXT" />
+      <mapping pattern="objects" type="PLAIN_TEXT" />
+      <mapping pattern="nouns" type="PLAIN_TEXT" />
       <mapping pattern="sentences" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
