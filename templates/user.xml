@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="pyheader" value="###############################################################################&#10;# $title$                                                                          #&#10;###############################################################################" description="Heading for python" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="title" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
